@@ -1,2 +1,2 @@
-# Updated for FALL2023 semester
+# ISU CDC SCRIPTS FALL2023
 This repository contains helpful scripts for the ISU CDC
