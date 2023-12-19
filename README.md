@@ -1,6 +1,6 @@
 # User and Permissions Scripts
 
-### `user_checker.sh`
+### `user_checker.sh` Linux only
 
 - **Description**: This script generates a list of all users and their group memberships, and compares it to a predefined list of known users and groups.
 - **Usage**:
@@ -19,7 +19,7 @@
     ```
 - **Note**: Must be run with `sudo`.
 
-### `Users_and_groups.sh`
+### `Users_and_groups.sh` Linux only
 
 - **Description**: This script creates a `.csv` file listing every user and their respective group memberships.
 - **Usage**:
